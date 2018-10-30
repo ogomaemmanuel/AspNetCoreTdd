@@ -1,2 +1,2 @@
-TestedUnit\_\__Conditions\_\_ExpectedResult_
+TestedUnit\__Conditions\_\_ExpectedResult
 

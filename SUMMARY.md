@@ -15,4 +15,5 @@
 * [Test Project In Visual Studio Code](test-project-in-visual-studio-code.md)
 * [Tdd Pattern](tdd-pattern.md)
 * [Test Method Naming Convetion](naming-convetion.md)
+* [Code Coverage](code-coverage.md)
 

@@ -2,19 +2,21 @@ Unit test frameworks help us write test in  a simplier , faster and easier way, 
 
 In visual studio, are available through test explorer, test menu-&gt;windows-&gt;test explorer
 
-Available Testing Frameworks ASP Net Core
+**Available Testing Frameworks ASP Net Core**
 
-MSTest
+*    MSTest
+*    xUnit
+*    Nunit
 
-xUnit
-
-Nunit
-
-
-
-MsTest
+**MsTest**
 
 This is a microsoft Unit test framework and Is availabel through visual studio insatlation
 
 
+
+Uses attribute \[TestClass\] to mark test classes
+
+Uses attribute\[TestMethod\] to mark test methods
+
+Uses atttribute\[TestInitialize\] to mark methods for test initilisation
 

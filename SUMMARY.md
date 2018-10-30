@@ -9,4 +9,5 @@
 * [Unit test Frameworks In .Net Core](unit-test-frameworks-in-net-core.md)
 * [Automated Testing Using Xunit ](xunit-installation.md)
 * [TDD](tdd.md)
+* [Difference Between TDD and Traditional Testing](difference-between-tdd-and-traditional-testing.md)
 

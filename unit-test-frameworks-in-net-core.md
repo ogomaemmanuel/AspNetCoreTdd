@@ -52,5 +52,7 @@ It has no attributte to mark class as test calsses, this means test can be writt
 
 Initilization of test is done through the constructor of the class and clearing up in the dispose method
 
-It use attribute\[Fact\] to mark test methods that are always true
+It use attribute\[Fact\] to mark test methods that are always true,
+
+Add \[Theory\] to mark test that are true for right data
 

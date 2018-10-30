@@ -4,19 +4,19 @@ In visual studio, are available through test explorer, test menu-&gt;windows-&gt
 
 **Available Testing Frameworks ASP Net Core**
 
-*    MSTest
-*    xUnit
-*    Nunit
+* MSTest
+* xUnit
+* Nunit
 
 **MsTest**
 
 This is a microsoft Unit test framework and Is availabel through visual studio insatlation
-
-
 
 Uses attribute \[TestClass\] to mark test classes
 
 Uses attribute\[TestMethod\] to mark test methods
 
 Uses atttribute\[TestInitialize\] to mark methods for test initilisation
+
+Uses attribute \[TestCleanUp\] to mark methods for test test clean up
 

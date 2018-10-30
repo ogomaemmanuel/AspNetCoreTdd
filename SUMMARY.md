@@ -5,4 +5,5 @@
 * [Problems With Manual Testing](problems-with-manual-testing.md)
 * [Benefits Of test Automation](benefits-of-test-automation.md)
 * [Who Writes test](who-writes-test.md)
+* [Types Of Automated Test](types-of-automated-test.md)
 

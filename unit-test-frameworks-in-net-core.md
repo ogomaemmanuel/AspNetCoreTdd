@@ -30,7 +30,7 @@ Uses the attribute \[TestFixture\] to mark classes as test classes
 
 Uses attribute \[Test\] to mark methods as Test
 
-\[TestCase\] is used to make one method run like multiple test 
+\[TestCase\] is used to make one method run like multiple test
 
 ```
 [TestCase(12,3, Result=4)]
@@ -42,5 +42,5 @@ public int DivideTest(int n, int d)
  }
 ```
 
-
+It is well documented [link](http://nunit.org)
 

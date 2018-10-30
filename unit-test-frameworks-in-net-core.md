@@ -44,3 +44,9 @@ public int DivideTest(int n, int d)
 
 It is well documented [link](http://nunit.org)
 
+xUnit
+
+It is focused on flexibility and extensibilty
+
+It has no attributte to mark class as test calsses, this means test can be written anywhere in any class
+

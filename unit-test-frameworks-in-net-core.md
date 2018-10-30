@@ -20,3 +20,9 @@ Uses atttribute\[TestInitialize\] to mark methods for test initilisation
 
 Uses attribute \[TestCleanUp\] to mark methods for test test clean up
 
+**Nunit**
+
+It is the most popular unit  test framework
+
+It is powerful, stand alone and fast
+

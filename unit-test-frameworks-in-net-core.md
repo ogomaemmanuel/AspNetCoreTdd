@@ -50,3 +50,5 @@ It is focused on flexibility and extensibilty
 
 It has no attributte to mark class as test calsses, this means test can be written anywhere in any class
 
+Initilization of test is done through the constructor of the class and clearing up in the dispose method
+

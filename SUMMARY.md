@@ -1,3 +1,8 @@
-# Table of content
+# Summary
 
+* [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* [Problems With Manual Testing](problems-with-manual-testing.md)
+* [Benefits Of test Automation](benefits-of-test-automation.md)
+* [Who Writes test](who-writes-test.md)
+

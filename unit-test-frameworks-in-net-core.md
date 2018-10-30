@@ -26,3 +26,7 @@ It is the most popular unit  test framework
 
 It is powerful, stand alone and fast
 
+
+
+Uses the attribute \[TestFixture\] to mark classes as test classes
+

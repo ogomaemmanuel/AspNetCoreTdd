@@ -16,3 +16,5 @@ Functional Test=&gt; They are blackbox high level testing, the test a fuctinalit
 
 
 
+High level black box test, they test even the behavior of the system
+

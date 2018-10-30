@@ -44,7 +44,7 @@ public int DivideTest(int n, int d)
 
 It is well documented [link](http://nunit.org)
 
-xUnit
+**xUnit**
 
 It is focused on flexibility and extensibilty
 
@@ -54,5 +54,5 @@ Initilization of test is done through the constructor of the class and clearing 
 
 It use attribute\[Fact\] to mark test methods that are always true,
 
-Add \[Theory\] to mark test that are true for right data
+Add \[Theory\] to mark test that are true for right data, this is similar to TestCase in Nunit
 
